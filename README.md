@@ -91,8 +91,8 @@ After=network.target
 
 [Service]
 User=adeep
-WorkingDirectory=/home/adeep/gojo-bot
-ExecStart=/home/adeep/gojo-bot/venv/bin/python bot.py
+WorkingDirectory=/home/username/gojo-bot
+ExecStart=/home/username/gojo-bot/venv/bin/python bot.py
 Restart=always
 
 [Install]
