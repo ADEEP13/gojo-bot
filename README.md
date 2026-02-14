@@ -37,7 +37,7 @@ It provides system monitoring, login alerts, remote control, and automatic start
 ### Clone repo
 
 ```
-git clone https://github.com/YOUR_USERNAME/gojo-bot.git
+git clone https://github.com/ADEEP13/gojo-bot.git
 cd gojo-bot
 ```
 
