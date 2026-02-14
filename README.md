@@ -138,3 +138,48 @@ Discord Bot Token
 ## License
 
 Open source
+
+## Maintainer
+
+This bot is actively developed and maintained by Adeep AG.
+
+Stay connected for updates, improvements, and new features:
+
+• GitHub: https://github.com/ADEEP13
+• LinkedIn: https://www.linkedin.com/in/adeep-ag-b140b9342/
+• X( twitter): https://x.com/adeep_ag
+• Reddit: https://www.reddit.com/user/ADEEP__A__G/
+• Email: [adeepag13@gmail.com](mailto:adeepag13@gmail.com)
+
+---
+
+## Project Updates
+
+All updates, bug fixes, and new features will be published here:
+
+GitHub Repository:
+https://github.com/ADEEP13/gojo-bot
+
+You can:
+
+• Star the project
+• Report bugs
+• Suggest features
+• Track updates
+
+---
+
+## Version
+
+Current Version: v1.0
+Bot Name: Gojo Server 
+Platform: Ubuntu Server + Discord
+
+---
+
+## Author
+
+Adeep AG
+Information Science Engineering Student
+
+
